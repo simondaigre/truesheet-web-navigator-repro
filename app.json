@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "TrueSheetWebNavigatorRepro",
+    "slug": "truesheet-web-navigator-repro",
+    "scheme": "truesheetwebnavigatorrepro",
+    "web": { "output": "single" },
+    "plugins": ["expo-router"]
+  }
+}
